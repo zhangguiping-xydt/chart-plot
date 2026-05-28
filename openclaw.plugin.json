@@ -1,5 +1,5 @@
 {
-  "id": "chart-svg",
+  "id": "chart-plot",
   "activation": {
     "onStartup": false
   },
