@@ -1,12 +1,12 @@
 {
   "name": "chart-plot",
-  "version": "2026.5.31-1",
+  "version": "2026.5.31-2",
   "private": false,
   "description": "OpenClaw Chart plugin \u2014 generate bar, line, pie, scatter, and area charts as SVG images",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhangguiping-xydt/chart-generator"
+    "url": "https://github.com/zhangguiping-xydt/chart-plot"
   },
   "files": [
     "index.js",
