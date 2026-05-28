@@ -5,7 +5,7 @@ OpenClaw 图表生成插件 — 支持柱状图、折线图、饼图、散点图
 ## 安装
 
 ```bash
-openclaw plugins install clawhub:chart-generator
+openclaw plugins install clawhub:chart-plot
 ```
 
 ## 使用
