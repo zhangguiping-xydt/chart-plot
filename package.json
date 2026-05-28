@@ -1,5 +1,5 @@
 {
-  "name": "chart-generator",
+  "name": "chart-svg",
   "version": "2026.5.31",
   "private": false,
   "description": "OpenClaw Chart plugin \u2014 generate bar, line, pie, scatter, and area charts as SVG images",
